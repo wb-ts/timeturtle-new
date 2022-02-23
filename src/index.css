@@ -1,19 +1,2 @@
-body {
-  margin: 0;
-  font-family: sans-serif;
-  overflow-x: hidden;
-  width: 100vw;
-}
-html {
-  scroll-behavior: smooth;
-}
-@font-face {
-  font-family: DisposableDroidBB;
-  src: url("./assets/DisposableDroidBB.ttf");
-}
-.root {
-  background-color: #000000;
-  font-family: DisposableDroidBB;
-  font-size: 2.3vw;
-  color: white;
-}
+
+
