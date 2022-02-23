@@ -9,7 +9,7 @@ html {
 }
 @font-face {
   font-family: DisposableDroidBB;
-  src: url("/DisposableDroidBB.ttf");
+  src: url("./assets/DisposableDroidBB.ttf");
 }
 .root {
   background-color: #000000;

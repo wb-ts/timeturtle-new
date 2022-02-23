@@ -51,7 +51,7 @@ p {
   top: 0;
   padding-left: 10%;
   padding-right: 10%;
-  background-image: url("/assets/top-border.png");
+  background-image: url("./assets/top-border.png");
   background-repeat:round ;
 }
 .main{
@@ -193,7 +193,7 @@ p {
 }
 .block-forth {
   z-index: 1;
-  background: url("/assets/forth-background.png");
+  background: url("./assets/forth-background.png");
   background-repeat: round;
   position: relative;
   padding-bottom: 5vw;
@@ -282,14 +282,14 @@ p {
 .shellboarder-left {
   width: 100%;
   height: 100%;
-  background-image: url("/assets/shellboarder-left.png") ;
+  background-image: url("./assets/shellboarder-left.png") ;
   background-repeat: repeat-y;
   background-size: contain;
 }
 .shellboarder-right {
   width: 100%;
   height: 100%;
-  background-image: url("/assets/shellboarder-right.png") ;
+  background-image: url("./assets/shellboarder-right.png") ;
   background-repeat: repeat-y;
   background-size: contain;
 }
@@ -444,7 +444,7 @@ a {
   top: -5vw;
 }
 .mint-background {
-  background-image: url("/assets/PurpleBackground.png");
+  background-image: url("./assets/PurpleBackground.png");
   background-repeat: round;
   margin-top: 5vw;
   width: 100%;
@@ -473,7 +473,7 @@ a {
   width: 19%;
 }
 .clac-button .number {
-  background-image: url("/assets/number.png");
+  background-image: url("./assets/number.png");
   background-repeat: round;
   width: 20vw;
   text-align: center;
