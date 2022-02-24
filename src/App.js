@@ -77,7 +77,7 @@ const App = () => {
                   </div>
                   <img src="./assets/plus-button.png" className="plus-button" alt="Cant find file!" onClick={()=>setNumber(number+1)}></img>
                 </div>
-                <img src="./assets/mint-button.png" className="mint-button" alt="Cant find file!"></img>
+                <img src="./assets/gif/mint-button.gif" className="mint-button" alt="Cant find file!"></img>
               </div>
               
             </div>
