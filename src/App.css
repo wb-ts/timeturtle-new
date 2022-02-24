@@ -364,13 +364,12 @@ p {
   padding: 1%;
 }
 .header-button-group .button {
-  padding-right: 2%;
-  padding-top: 1%;
+  padding: 0;
   cursor: pointer;
   width: 7%;
 }
 .header-button-group .button img {
-  width: 90%;
+  width: 66%;
 }
 
 .mark-end {
@@ -472,7 +471,7 @@ a {
 }
 .clac-button .number {
   background-repeat: round;
-  width: 20vw;
+  width: 52%;
   text-align: center;
   font-size: 5vw;
   color: rgba(248, 240, 229, 1);
