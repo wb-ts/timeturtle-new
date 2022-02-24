@@ -17,7 +17,7 @@ const App = () => {
           <li><a href="#meet">Meet The Turtles</a></li>
         </ul>
         
-        <div className="header-button-group row justify-content-end" style={{ "marginRight": "-1%" }}>
+        <div className="header-button-group d-flex justify-content-end" style={{ "marginRight": "-1%" }}>
           <div className="button button-discord">
             <img alt="Cant find File!" src="./assets/Discord Icon.png"></img>
           </div>
