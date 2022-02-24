@@ -68,6 +68,7 @@ const App = () => {
               <p className="mt-2" style={{ width: "90%" }}>5% will be given away to an ocean cleanup charity voted on by the community, to support the true turtles.</p>
             </div>
             <div className="d-flex m-auto justify-content-center" >
+              <img src="./assets/gif/lock.gif" style={{ width:"87vw" , position:"absolute" , margin:"auto" , marginTop:"21vw" , zIndex:"4" }}></img>
               <img src="./assets/mint-background.png" style={{ backgroundImage:"url(./assets/PurpleBackground.png)" , backgroundRepeat:"round" }}  className="mint-background" alt="Cant find file!"></img>
               <div className="button-group-mint">
                 <div className="d-flex clac-button" style={{ flexDirection : "row" }}>
@@ -77,7 +78,7 @@ const App = () => {
                   </div>
                   <img src="./assets/plus-button.png" className="plus-button" alt="Cant find file!" onClick={()=>setNumber(number+1)}></img>
                 </div>
-                <img src="./assets/gif/mint-button.gif" className="mint-button" alt="Cant find file!"></img>
+                <img src="./assets/mint-button.png" className="mint-button" alt="Cant find file!"></img>
               </div>
               
             </div>
