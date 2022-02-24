@@ -207,7 +207,9 @@ p {
 }
 .block-forth {
   z-index: 1;
-  background-repeat: round;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   position: relative;
   padding-bottom: 5vw;
 }
@@ -470,7 +472,9 @@ a {
   width: 19%;
 }
 .clac-button .number {
-  background-repeat: round;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   width: 52%;
   text-align: center;
   font-size: 5vw;
